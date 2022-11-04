@@ -1,0 +1,68 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(lightgrey);
+}
+
+header {
+    background: #FF1493;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.img {
+    position: absolute;
+    width: 170px;
+    height: 190px;
+    left: 150;
+}
+
+.meu-cabecalho {
+   width: auto;
+}
+
+h1 {
+    margin: auto;
+    position: relative;
+    left: 6px;
+    bottom: 24px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.container-conteudo {
+    text-align: center;
+    line-height: 1em;
+    width: auto;
+    background-color: #f3dbe8;
+    height: 200px;
+}
+
+h2 {
+    font-weight: bold;
+    margin: 50px 0 0 0;
+}
+li p {
+    line-height: 24px;
+}
+
+.container-contato {
+    margin: 10px;
+    text-align: left;
+    margin-left: 200px;
+    margin-top: 55px;
+    background-color: #f3dbe8;
+}
+
+footer {
+    background: #FF1493;
+    width: auto;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 30px;
+    padding: 50px 0 100px 0;
+}
